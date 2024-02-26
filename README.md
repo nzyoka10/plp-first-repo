@@ -40,11 +40,21 @@
 ```bash
     Open a text editor, such as Visual Studio Code or Sublime Text, and begin writing HTML code. Start with the basic structure, including 
     `<!DOCTYPE html>`, 
-    `<html></html>`, 
-    `<head></head>`, 
-        and 
-    `<body></body>`. 
-    Then, add the body with your content.
+        <html>
+            <head>
+                <title>First website</title>
+            </head>
+
+            <body>
+                <!-- body contents goes here -->
+                <h1>Heading 1</h1>
+                <p>Paragraph</p>
+                
+                <img src="./mg/image.jpg" alt="Image description">
+
+            </body>
+        </html>
+
 ```
 #### Saving as .html
 
