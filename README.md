@@ -37,7 +37,7 @@
 - Keep in mind that the visual design can be enhanced with CSS (Cascading Style Sheets), a topic we'll explore later in your web development journey.
 
 ### Writing HTML Code
-
+```bash
     Open a text editor, such as Visual Studio Code or Sublime Text, and begin writing HTML code. Start with the basic structure, including 
     `<!DOCTYPE html>`, 
     `<html></html>`, 
@@ -45,7 +45,7 @@
         and 
     `<body></body>`. 
     Then, add the body with your content.
-
+```
 #### Saving as .html
 
 - Save your HTML files with a `.html` extension to indicate that they are web pages. 
