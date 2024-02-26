@@ -9,4 +9,4 @@ This Python program is a simple interactive script that prompts the user for the
   - Please enter your name: Eric
   - Please enter your age: 25
   - Please enter your location: Syokimau
-- Hello John, you are 25 years old and live in New York.
+- Hello John, you are 25 years old and live in Syokimau!
