@@ -84,6 +84,28 @@ print(type(fruits))
 
 # python Dictionary data type
 # dictionary --> is an ordered collection of items 
-# 
+print('\n')
+# example of dictionary
+capital_city = {
+    'USA': 'Washington D.C',
+    'Kenya': 'Nairobi',
+    'Italy': 'Rome',
+    'Tunisia': 'Tunis'
+}
+print(capital_city)
+print(type(capital_city)) #<class 'dict'>
+print(capital_city['Kenya']) # Nairobi
+
+# example 2
+print('\n')
+user_info = {
+    'Name': 'Eric Doe',
+    'Age': 123,
+    'Location': 'Syokimau',
+    'County': 'Machakos'
+}
+print(user_info)
+print(len(user_info))
+
 
 
